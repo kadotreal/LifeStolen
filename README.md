@@ -1,4 +1,6 @@
-# LifeStolen
+# LifeStolen (Not supported for now)
+
+I'll be honest, I've lost a ton of interest in coding this plugin, and I did plan a recode, but I just haven't had enough time to do it, so yeah. Sorry, this plugin isn't being supported for now :/
 
 LifeStolen is another life steal plugin.
 
