@@ -4,7 +4,7 @@ I'll be honest, I've lost a ton of interest in coding this plugin, and I did pla
 
 LifeStolen is another life steal plugin.
 
-[![GitHub Downloads](https://img.shields.io/github/downloads/kadotcom/lifestolen/total?label=github&logo=github)](https://github.com/kadotcom/lifestolen/releases)
+[![GitHub Downloads](https://img.shields.io/github/downloads/kadotreal/lifestolen/total?label=github&logo=github)](https://github.com/kadotreal/lifestolen/releases)
 [![Discord](https://img.shields.io/discord/872329028596535307?label=discord&logo=discord)](https://discord.gg/kbFsgPE4b6/)
 [![License: CC BY 4.0](https://licensebuttons.net/l/by/4.0/80x15.png)](https://www.curseforge.com/project/567776/license)
 
